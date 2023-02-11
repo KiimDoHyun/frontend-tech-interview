@@ -45,3 +45,7 @@ https://velog.io/@sj_dev_js/HTML-DOM%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%
 디바운스와 쓰로틀 관련
 
 https://www.zerocho.com/category/JavaScript/post/59a8e9cb15ac0000182794fa
+
+REST 관련
+
+https://steemit.com/kr/@yahweh87/it-api
