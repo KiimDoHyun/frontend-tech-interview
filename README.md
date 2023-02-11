@@ -37,3 +37,11 @@ https://velog.io/@shyuuuuni/FE-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A4%80%EB%B9%84-%E
 브라우저 렌더링 의 이미지 출처
 
 https://mystudy.tistory.com/21
+
+DOM 내용 관련
+
+https://velog.io/@sj_dev_js/HTML-DOM%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C
+
+디바운스와 쓰로틀 관련
+
+https://www.zerocho.com/category/JavaScript/post/59a8e9cb15ac0000182794fa
