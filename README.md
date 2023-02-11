@@ -32,8 +32,8 @@ https://velog.io/@shyuuuuni/FE-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A4%80%EB%B9%84-%E
 
 -   원본에 달려있었음 많이 있을수록 중요함
 
-# 참고
+# 출처
 
-브라우저 렌더링
+브라우저 렌더링 의 이미지 출처
 
 https://mystudy.tistory.com/21
