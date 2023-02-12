@@ -61,3 +61,7 @@ https://wildeveloperetrain.tistory.com/110
 useCallback, useMemo 잘 쓰고 있는가?
 
 https://www.rinae.dev/posts/review-when-to-usememo-and-usecallback
+
+프로토타입
+
+https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67
