@@ -57,3 +57,7 @@ https://velog.io/@teo/functional-programming
 오버로딩 오버라이딩
 
 https://wildeveloperetrain.tistory.com/110
+
+useCallback, useMemo 잘 쓰고 있는가?
+
+https://www.rinae.dev/posts/review-when-to-usememo-and-usecallback
