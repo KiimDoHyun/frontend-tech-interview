@@ -49,3 +49,11 @@ https://www.zerocho.com/category/JavaScript/post/59a8e9cb15ac0000182794fa
 REST 관련
 
 https://steemit.com/kr/@yahweh87/it-api
+
+함수형 프로그래밍이란
+
+https://velog.io/@teo/functional-programming
+
+오버로딩 오버라이딩
+
+https://wildeveloperetrain.tistory.com/110
